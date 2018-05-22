@@ -6,5 +6,6 @@ include(
     'apps.py',
     'auth.py',
     'common.py',
-    'database.py'
+    'database.py',
+    'adminlte2.py',
 )
