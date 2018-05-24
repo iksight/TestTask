@@ -4,6 +4,7 @@ from .common import BASE_DIR
 # Application definition
 
 INSTALLED_APPS = [
+    'TestTask.apps.products.apps.ProductsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

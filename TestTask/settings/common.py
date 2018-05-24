@@ -13,9 +13,9 @@ SECRET_KEY = 't)2z-(h0pw+pok2f9#vn$h0$v8od)0n-3)hxpnw!kf$#zfuxum'
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru-ru'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Kiev'
 
 USE_I18N = True
 
